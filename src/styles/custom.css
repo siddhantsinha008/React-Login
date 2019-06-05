@@ -1,0 +1,12 @@
+body{
+    color:#333333;
+}
+
+.primary{
+    background-color: #f2b632!important;
+}
+
+.secondary{
+    background-color: #242c43!important;
+    color:#ffffff!important;
+}
